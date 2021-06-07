@@ -1,0 +1,25 @@
+.home{
+    background-color: brown;
+    width: 1100px;
+    border: 10px solid green;
+    padding: 20px;
+    margin: 20px; 
+    align-items:flex-end;
+    box-align: center;
+    justify-content: space-between;
+}
+
+.heading{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.body{
+    color: white;
+    text-align: justify;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-style: oblique;
+    font-size: 20px;
+    text-indent: 50px;
+}
