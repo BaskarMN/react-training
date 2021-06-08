@@ -1,0 +1,19 @@
+.navbar{
+    background-color: aquamarine;
+    background: aquamarine;
+    
+}
+
+.h2{
+    background-color: cadetblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color:cornsilk;
+    background-position: center;   
+    
+}
+
+.h4{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Switch, Route, Link } from "react-router-dom";
-import SignUp from './signUp';
+import FormPage from './form';
 import { Button } from '@material-ui/core';
 import '../css/homePage.css'
 
@@ -25,7 +25,7 @@ class HomePage extends React.Component {
             </div>
                 <Button variant="outlined" color="secondary"><Link to ="/signup">SignUp Page</Link></Button> 
                 <Switch>
-                <Route path="/signup">{SignUp}</Route>
+                <Route path="/signup">{FormPage}</Route>
                 </Switch>                
             </div>
         )
